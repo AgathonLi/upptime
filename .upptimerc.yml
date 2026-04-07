@@ -11,8 +11,12 @@ sites:
     url: https://mail.uuui.uk
   - name: CloudMail
     url: https://mail.river-z.de
-  - name: Vaultwarden
-    url: https://crypto.uuui.uk
+  - name: Cloudreve
+    url: https://sto.river-z.de
+  - name: EasyImage
+    url: https://pic-da.990910.xyz
+  - name: Lsky Pro
+    url: https://pickr.211118.xyz
   - name: MetaTube
     url: https://ko0327-agathonli.koyeb.app
 #  - name: IPv6 test
