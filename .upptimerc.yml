@@ -7,6 +7,10 @@ sites:
     url: https://status.uuui.uk
   - name: Nezha
     url: https://status.990910.xyz
+  - name: SnappyMail
+    url: https://mail.uuui.uk
+  - name: CloudMail
+    url: https://mail.river-z.de
   - name: Vaultwarden
     url: https://crypto.uuui.uk
   - name: MetaTube
