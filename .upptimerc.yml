@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://github.com/AgathonLi/upptime/raw/refs/heads/master/assets/upptime-icon.svg
   name: Upptime
   introTitle: "**Upptime Monitor**"
-  introMessage: This is a sample status page which uses **real-time** data from GitHub.
+  introMessage: This is a service status page which uses **real-time** data from GitHub.
   navbar:
     - title: Status
       href: /
