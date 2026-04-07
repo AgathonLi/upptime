@@ -17,6 +17,10 @@ sites:
     url: https://pic-da.990910.xyz
   - name: Lsky Pro
     url: https://pickr.211118.xyz
+  - name: Memos
+    url: https://note.211118.xyz
+  - name: Typecho
+    url: https://blog.210910.xyz
   - name: MetaTube
     url: https://ko0327-agathonli.koyeb.app
 #  - name: IPv6 test
@@ -32,13 +36,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/AgathonLi/upptime/raw/refs/heads/master/assets/upptime-icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime Monitor**"
+  introMessage: This is a sample status page which uses **real-time** data from GitHub.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/AgathonLi/upptime
+    - title: Komari
+      href: https://status.uuui.uk
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
