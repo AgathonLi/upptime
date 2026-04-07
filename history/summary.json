@@ -166,19 +166,19 @@
     "url": "https://ko0327-agathonli.koyeb.app",
     "icon": "https://icons.duckduckgo.com/ip3/ko0327-agathonli.koyeb.app.ico",
     "slug": "meta-tube",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 3531,
-    "timeDay": 3531,
-    "timeWeek": 3531,
-    "timeMonth": 3531,
-    "timeYear": 3531,
+    "status": "up",
+    "uptime": "50.83%",
+    "uptimeDay": "50.83%",
+    "uptimeWeek": "50.83%",
+    "uptimeMonth": "50.83%",
+    "uptimeYear": "50.83%",
+    "time": 3154,
+    "timeDay": 3154,
+    "timeWeek": 3154,
+    "timeMonth": 3154,
+    "timeYear": 3154,
     "dailyMinutesDown": {
-      "2026-04-07": 0
+      "2026-04-07": 275
     }
   }
 ]
