@@ -116,9 +116,9 @@
     "url": "https://pickr.211118.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/pickr.211118.xyz.ico",
     "slug": "lsky-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 1431,
     "timeMonth": 1332,
     "timeYear": 1332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-23": 0
+    }
   },
   {
     "name": "Memos",
@@ -173,11 +175,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ko0327-agathonli.koyeb.app.ico",
     "slug": "meta-tube",
     "status": "up",
-    "uptime": "72.19%",
-    "uptimeDay": "81.72%",
+    "uptime": "72.21%",
+    "uptimeDay": "82.79%",
     "uptimeWeek": "71.30%",
-    "uptimeMonth": "72.19%",
-    "uptimeYear": "72.19%",
+    "uptimeMonth": "72.21%",
+    "uptimeYear": "72.21%",
     "time": 2465,
     "timeDay": 678,
     "timeWeek": 2752,
