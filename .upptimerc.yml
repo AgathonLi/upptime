@@ -17,10 +17,6 @@ sites:
     url: https://pic-da.990910.xyz
   - name: Lsky Pro
     url: https://pickr.211118.xyz
-  - name: Memos
-    url: https://note.211118.xyz
-  - name: Typecho
-    url: https://blog.210910.xyz
   - name: MetaTube
     url: https://ko0327-agathonli.koyeb.app
 #  - name: IPv6 test
