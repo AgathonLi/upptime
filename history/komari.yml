@@ -1,7 +1,7 @@
 url: https://status.uuui.uk
-status: up
-code: 200
-responseTime: 90
-lastUpdated: 2026-08-12T23:45:27.992Z
+status: down
+code: 502
+responseTime: 166
+lastUpdated: 2026-08-13T19:35:50.233Z
 startTime: 2026-04-07T09:12:58.346Z
 generator: Upptime <https://github.com/upptime/upptime>
