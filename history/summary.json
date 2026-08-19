@@ -103,9 +103,9 @@
     "url": "https://pickr.211118.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/pickr.211118.xyz.ico",
     "slug": "lsky-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -115,7 +115,8 @@
     "timeMonth": 1462,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2026-04-23": 129
+      "2026-04-23": 129,
+      "2026-08-19": 0
     }
   },
   {
