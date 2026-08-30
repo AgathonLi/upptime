@@ -13,8 +13,6 @@ sites:
     url: https://mail.river-z.de
   - name: Cloudreve
     url: https://sto.river-z.de
-  - name: Lsky Pro
-    url: https://pickr.211118.xyz
   - name: MetaTube
     url: https://ko0327-agathonli.koyeb.app
 #  - name: IPv6 test
